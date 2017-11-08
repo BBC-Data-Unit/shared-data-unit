@@ -1,4 +1,4 @@
-# Who are we
+# The BBC Shared Data Unit: Who are we
 
 An innovative team of journalists investigating datasets to tell stories of public interest that matter to local audiences.  We passionately believe that in a world where the amount of digital information has increased exponentially, public bodies will only be held to account if journalists have the tech skills and time to interrogate these sources.  We will work with partners in the local media industry to widen the reporting of public data across the UK.
 
@@ -17,6 +17,6 @@ We believe in making our journalism accessible to as many people as possible.  W
 * Make packaged content for BBC English Regions audiences 
 * We will be open and transparent with our methodologies, and encourage a conversation between our network of reporters.
 
+## Our stories
 
-
-
+Repositories for our stories [can be found tagged 'shareddataunit'](https://github.com/search?q=topic%3Ashareddataunit+org%3ABBC-Data-Unit&type=Repositories).

@@ -19,17 +19,19 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
-### Teacher vacancy rate double in poor areas
+### Neighbourhood police: One in seven officers axed were beat bobbies
 
-In September 2017 the BBC England Shared Data Unit published a story showing that teacher vacancy rates are at their highest in primary schools in the most deprived parts of England. This was the first story to come out of the data arm of the BBC Local News partnership and was picked up by a range of partners and other news outlets. 
+In February 2018, the Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-42403590) out of around 11,000 police officers lost from 2012-17 across forces in England and Wales, 1,500 worked in neighbourhoods - around one in seven.
 
-* [GitHub repo](https://github.com/BBC-Data-Unit/teacher-vacancies-deprivation).
+* [GitHub repo](https://github.com/BBC-Data-Unit/neighbourhood-police)
 
-### Share of European Union staff leaving NHS rises following Brexit
 
-In October 2017 the Shared Data Hub [reported](http://www.bbc.co.uk/news/uk-england-41556997) that the proportion of EU nationals leaving jobs in the NHS is rising, while the share of those joining is shrinking. 
+### Cost legacy of decades-old NHS blunders begins to rise
 
-* [GitHub repo](https://github.com/BBC-Data-Unit/EU-workers-NHS).
+In January 2018 the Shared Data Unit reported the compensation bill for NHS mistakes that took place before 1995 - mainly maternity failings - had begun to rise for the first time in five years.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/NHS-litigation)
+
 
 ### Empty homes spike in London commuter belt
 
@@ -37,10 +39,19 @@ In November 2017 the BBC Shared Data Unit [reported](http://www.bbc.co.uk/news/u
 
 * [GitHub repo](https://github.com/BBC-Data-Unit/empty-homes)
 
-### Neighbourhood police: One in seven officers axed were beat bobbies
 
-In February 2018, the Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-42403590) out of around 11,000 police officers lost from 2012-17 across forces in England and Wales, 1,500 worked in neighbourhoods - around one in seven.
+### Share of European Union staff leaving NHS rises following Brexit
 
-* [GitHub repo](https://github.com/BBC-Data-Unit/neighbourhood-police)
+In October 2017 the Shared Data Hub [reported](http://www.bbc.co.uk/news/uk-england-41556997) that the proportion of EU nationals leaving jobs in the NHS is rising, while the share of those joining is shrinking. 
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/EU-workers-NHS).
+
+
+### Teacher vacancy rate double in poor areas
+
+In September 2017 the BBC England Shared Data Unit published a story showing that teacher vacancy rates are at their highest in primary schools in the most deprived parts of England. This was the first story to come out of the data arm of the BBC Local News partnership and was picked up by a range of partners and other news outlets. 
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/teacher-vacancies-deprivation).
+
 
 *Repositories for all our stories [can be found tagged 'shareddataunit'](https://github.com/search?q=topic%3Ashareddataunit+org%3ABBC-Data-Unit&type=Repositories).*

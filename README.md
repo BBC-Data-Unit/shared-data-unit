@@ -28,7 +28,7 @@ In February 2018, the Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-4
 
 ### Cost legacy of decades-old NHS blunders begins to rise
 
-In January 2018 the Shared Data Unit reported the compensation bill for NHS mistakes that took place before 1995 - mainly maternity failings - had begun to rise for the first time in five years.
+In January 2018 the Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-england-42442343) the compensation bill for NHS mistakes that took place before 1995 - mainly maternity failings - had begun to rise for the first time in five years.
 
 * [GitHub repo](https://github.com/BBC-Data-Unit/NHS-litigation)
 

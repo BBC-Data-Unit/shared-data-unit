@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Britain's bus coverage hits 28-year low
+
+In February 2018, the Shared Data Unit [revealed](http://www.bbc.co.uk/news/uk-england-42749973) Britain's bus network had shrunk to levels last seen in the late 1980s.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/buses-lost)
+
 ### Neighbourhood police: One in seven officers axed were beat bobbies
 
 In February 2018, the Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-42403590) out of around 11,000 police officers lost from 2012-17 across forces in England and Wales, 1,500 worked in neighbourhoods - around one in seven.

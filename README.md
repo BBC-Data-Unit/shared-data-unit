@@ -19,6 +19,13 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Thousands of miles of UK roads in poor condition
+
+In March 2018 the BBC Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-england-43407167) some 10% of the road network maintained by local authorities in Great Britain is in poor condition, or had been flagged for further inspection.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/road-conditions)
+
+
 ### Britain's bus coverage hits 28-year low
 
 In February 2018, the Shared Data Unit [revealed](http://www.bbc.co.uk/news/uk-england-42749973) Britain's bus network had shrunk to levels last seen in the late 1980s.

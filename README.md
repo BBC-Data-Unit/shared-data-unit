@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Premier League and EFL football matches 'over-policed'
+
+In July 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-44871578) some of the most heavily policed football matches in the UK had one officer present for every 50 fans, prompting calls for a review.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/policing-football)
+
 ### UK prisons 'awash' with smuggled phones and SIM cards
 
 In May 2018 the BBC Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-england-43869560#) one smuggled mobile phone or SIM card had been seized for every six inmates in English and Welsh jails in 2017.

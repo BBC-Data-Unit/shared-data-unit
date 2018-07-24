@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### UK prisons 'awash' with smuggled phones and SIM cards
+
+In May 2018 the BBC Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-england-43869560#) one smuggled mobile phone or SIM card had been seized for every six inmates in English and Welsh jails in 2017.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/Smuggled-mobiles-in-prisons)
+
 ### Thousands of miles of UK roads in poor condition
 
 In March 2018 the BBC Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-england-43407167) some 10% of the road network maintained by local authorities in Great Britain is in poor condition, or had been flagged for further inspection.

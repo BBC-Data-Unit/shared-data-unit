@@ -25,6 +25,13 @@ In July 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-e
 
 * [GitHub repo](https://github.com/BBC-Data-Unit/policing-football)
 
+### Poverty link to early death 'scandalous'
+
+
+In July 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-44853482) people living in the poorest parts of the UK were more likely to die prematurely.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/deprivation-premature-deaths)
+
 ### UK prisons 'awash' with smuggled phones and SIM cards
 
 In May 2018 the BBC Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-england-43869560#) one smuggled mobile phone or SIM card had been seized for every six inmates in English and Welsh jails in 2017.

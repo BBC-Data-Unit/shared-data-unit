@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Millions miss out on seven-day GP access
+
+In July 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-44938759) there were more than five million people across England who were unable to book an appointment with a GP outside of working hours, when all patients were due to have full extended access by 1 October 2018.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/seven-day-GP-access)
+
 ### Premier League and EFL football matches 'over-policed'
 
 In July 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-44871578) some of the most heavily policed football matches in the UK had one officer present for every 50 fans, prompting calls for a review.
@@ -26,7 +32,6 @@ In July 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-e
 * [GitHub repo](https://github.com/BBC-Data-Unit/policing-football)
 
 ### Poverty link to early death 'scandalous'
-
 
 In July 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-44853482) people living in the poorest parts of the UK were more likely to die prematurely.
 

@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### UK house-building 'below pre-crash levels'
+
+In August 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-45050276) house-building across half of England was slower than it had been before the financial crash.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/house-building)
+
 ### Millions miss out on seven-day GP access
 
 In July 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-44938759) there were more than five million people across England who were unable to book an appointment with a GP outside of working hours, when all patients were due to have full extended access by 1 October 2018.

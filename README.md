@@ -19,6 +19,13 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+
+### More takeaways on high street despite anti-obesity push
+
+In October 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-45875294) UK high streets had the highest concentration of fast food outlets since 2010.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/takeaways)
+
 ### UK house-building 'below pre-crash levels'
 
 In August 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-45050276) house-building across half of England was slower than it had been before the financial crash.

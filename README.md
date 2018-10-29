@@ -19,6 +19,11 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### More students seek mental health support, analysis shows
+
+In October 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-45824598) the number of students seeking mental health support whilst at university has increased by more than 50% in five years.
+
+* [Github repo](https://github.com/BBC-Data-Unit/Uni-mental-health)
 
 ### More takeaways on high street despite anti-obesity push
 

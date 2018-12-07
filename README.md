@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### London dominates UK jobs growth over past decade
+
+In November 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-46288515) one in three new jobs created in the UK over the past decade has been in London.
+
+* [Github repo](https://github.com/BBC-Data-Unit/UK_jobs_growth)
+
 ### More students seek mental health support, analysis shows
 
 In October 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-45824598) the number of students seeking mental health support whilst at university has increased by more than 50% in five years.

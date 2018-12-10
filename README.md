@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Legal aid advice network 'decimated' by funding cuts
+
+In December 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-46357169) cuts to legal aid had created "deserts" of provision across England and Wales
+
+* [Github repo](https://github.com/BBC-Data-Unit/legal-aid)
+
 ### London dominates UK jobs growth over past decade
 
 In November 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-46288515) one in three new jobs created in the UK over the past decade has been in London.

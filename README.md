@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Bulky waste charges for fridges and furniture 'confusing'
+
+In January 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-46364689) on the postcode lottery of council charges to collect unwanted furniture and other large waste items.
+
+* [Github repo](https://github.com/BBC-Data-Unit/bulky-waste)
+
 ### Legal aid advice network 'decimated' by funding cuts
 
 In December 2018 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-46357169) cuts to legal aid had created "deserts" of provision across England and Wales

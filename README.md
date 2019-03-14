@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Right to Buy homes re-sold since 2000 made £6.4bn in profit
+
+In March 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-47443183) on the impact of the Right to Buy policy under which former social housing tenants were allowed to buy their home at a discount, the size of which depended how long they had lived there.
+
+* [Github repo](https://github.com/BBC-Data-Unit/right-to-buy)
+
 ### Bulky waste charges for fridges and furniture 'confusing'
 
 In January 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-46364689) on the postcode lottery of council charges to collect unwanted furniture and other large waste items.

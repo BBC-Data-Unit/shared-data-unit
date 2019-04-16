@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Rise in deaths of offenders on probation since reforms
+
+In April 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-46386117) the number of people dying while on probation in England and Wales had risen by almost a third in three years.
+
+* [Github repo](https://github.com/BBC-Data-Unit/deaths-on-probation)
+
 ### Lack of electric car charging points 'putting off drivers'
 
 In March 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-47696839) a "patchy" network of charging points was discouraging UK drivers from embracing electric cars.

@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Violent offences 'dealt with informally' by police forces
+
+In June 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-47697778) violent offenders were being handed informal punishments by the police, despite guidance restricting their use to low-level offences.
+
+* [Github repo](https://github.com/BBC-Data-Unit/community-resolutions)
+
 ### Rise in deaths of offenders on probation since reforms
 
 In April 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-46386117) the number of people dying while on probation in England and Wales had risen by almost a third in three years.

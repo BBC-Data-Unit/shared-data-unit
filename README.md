@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Railway bicycle theft hotspots revealed
+
+In August 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-49154673) railway stations serving London's commuter belt remained a prime target for bike thieves.
+
+* [Github repo](https://github.com/BBC-Data-Unit/railway-bike-thefts)
+
 ### Violent offences 'dealt with informally' by police forces
 
 In June 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-47697778) violent offenders were being handed informal punishments by the police, despite guidance restricting their use to low-level offences.

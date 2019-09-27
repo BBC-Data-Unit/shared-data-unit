@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### UK gardeners 'punished by quiet green tax' for kerbside collections
+
+In September 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-49085346) the claim that a "quiet green tax" was deterring gardeners from recycling their waste.
+
+* [Github repo](https://github.com/BBC-Data-Unit/garden-waste-charges)
+
 ### Railway bicycle theft hotspots revealed
 
 In August 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-49154673) railway stations serving London's commuter belt remained a prime target for bike thieves.

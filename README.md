@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Half of disability benefits appeals won in tribunal court
+
+In November 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-49891159) one in two people who appealed in court against a decision to deny them disability benefits was successful.
+
+* [Github repo](https://github.com/BBC-Data-Unit/benefits-appeals)
+
 ### UK gardeners 'punished by quiet green tax' for kerbside collections
 
 In September 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-49085346) the claim that a "quiet green tax" was deterring gardeners from recycling their waste.

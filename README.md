@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### UK dementia diagnoses rise 40% in five years
+
+In December 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/health-50394258) some parts of the UK had seen the number of people diagnosed with dementia more than double in five years, according to analysis of NHS data.
+
+* [Github repo](https://github.com/BBC-Data-Unit/dementia-diagnoses)
+
 ### Half of disability benefits appeals won in tribunal court
 
 In November 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-49891159) one in two people who appealed in court against a decision to deny them disability benefits was successful.

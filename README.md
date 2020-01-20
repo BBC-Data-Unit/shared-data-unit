@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Empty business rates relief 'costs £1bn'
+
+In January 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-48854450) empty businesses costed UK taxpayers £1bn a year, prompting calls for urgent reform of the system.
+
+* [Github repo](https://github.com/BBC-Data-Unit/business-rates)
+
 ### UK dementia diagnoses rise 40% in five years
 
 In December 2019 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/health-50394258) some parts of the UK had seen the number of people diagnosed with dementia more than double in five years, according to analysis of NHS data.

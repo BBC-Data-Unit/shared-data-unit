@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### UK councils' benefits pages push credit card adverts
+
+In February 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-50504621) high-interest credit card ads were being targeted at people seeking benefits advice on UK local council websites.
+
+* [Github repo](https://github.com/BBC-Data-Unit/council-cookies)
+
 ### Empty business rates relief 'costs £1bn'
 
 In January 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-48854450) empty businesses costed UK taxpayers £1bn a year, prompting calls for urgent reform of the system.

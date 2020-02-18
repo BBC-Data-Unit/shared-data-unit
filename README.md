@@ -19,6 +19,11 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Fly-tipping: Organised crime behind large rise
+In February 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-50660138) organised criminal gangs were believed to be behind a rise in major flytipping incidents.
+
+* [Github repo](https://github.com/BBC-Data-Unit/organised-crime-flytipping)
+
 ### UK councils' benefits pages push credit card adverts
 
 In February 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-50504621) high-interest credit card ads were being targeted at people seeking benefits advice on UK local council websites.

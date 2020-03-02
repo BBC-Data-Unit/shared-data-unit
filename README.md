@@ -19,6 +19,11 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Two thirds of UK homes 'fail on energy efficiency targets'
+In March 2020, the BBC Shared Data unit [reported](https://www.bbc.co.uk/news/uk-50573338) that nearly two thirds of UK homes fail to meet long-term energy efficiency targets.
+
+* [Github repo](https://github.com/BBC-Data-Unit/energy-efficiency-of-homes)
+
 ### Fly-tipping: Organised crime behind large rise
 In February 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-50660138) organised criminal gangs were believed to be behind a rise in major flytipping incidents.
 

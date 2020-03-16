@@ -192,7 +192,9 @@ In October 2017 the Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-eng
 
 ### Teacher vacancy rate double in poor areas
 
-In September 2017 the BBC England Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-40936182) teacher vacancy rates were at their highest in primary schools in the most deprived parts of England. This was the first story to come out of the data arm of the BBC Local News partnership and was picked up by a range of partners and other news outlets. 
+In September 2017 the BBC England Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-40936182) teacher vacancy rates were at their highest in primary schools in the most deprived parts of England. 
+
+This was the first story to come out of the data arm of the BBC Local News partnership and was picked up by a range of partners and other news outlets. 
 
 * [GitHub repo](https://github.com/BBC-Data-Unit/teacher-vacancies-deprivation).
 

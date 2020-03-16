@@ -185,14 +185,14 @@ In November 2017 the BBC Shared Data Unit [reported](http://www.bbc.co.uk/news/u
 
 ### Share of European Union staff leaving NHS rises following Brexit
 
-In October 2017 the Shared Data Hub [reported](http://www.bbc.co.uk/news/uk-england-41556997) that the proportion of EU nationals leaving jobs in the NHS is rising, while the share of those joining is shrinking. 
+In October 2017 the Shared Data Unit [reported](http://www.bbc.co.uk/news/uk-england-41556997) that the proportion of EU nationals leaving jobs in the NHS is rising, while the share of those joining is shrinking. 
 
 * [GitHub repo](https://github.com/BBC-Data-Unit/EU-workers-NHS).
 
 
 ### Teacher vacancy rate double in poor areas
 
-In September 2017 the BBC England Shared Data Unit published a story showing that teacher vacancy rates are at their highest in primary schools in the most deprived parts of England. This was the first story to come out of the data arm of the BBC Local News partnership and was picked up by a range of partners and other news outlets. 
+In September 2017 the BBC England Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-40936182) teacher vacancy rates were at their highest in primary schools in the most deprived parts of England. This was the first story to come out of the data arm of the BBC Local News partnership and was picked up by a range of partners and other news outlets. 
 
 * [GitHub repo](https://github.com/BBC-Data-Unit/teacher-vacancies-deprivation).
 

@@ -22,7 +22,7 @@ We believe in making our journalism accessible to as many people as possible.  W
 ### Coronavirus: Volunteers flock to join community support groups
 In March 2020, the BBC Shared Data unit [reported](https://www.bbc.co.uk/news/uk-england-51978388) that nearly 1,000 mutual aid groups had been set up since the outbreak of coronavirus.
 
-* [Github repo])(https://github.com/BBC-Data-Unit/covid_mutual_aid)
+* [Github repo](https://github.com/BBC-Data-Unit/covid_mutual_aid)
 
 ### Two thirds of UK homes 'fail on energy efficiency targets'
 In March 2020, the BBC Shared Data unit [reported](https://www.bbc.co.uk/news/uk-50573338) that nearly two thirds of UK homes fail to meet long-term energy efficiency targets.

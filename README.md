@@ -25,6 +25,12 @@ In April 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-
 
 * [Github repo](https://github.com/BBC-Data-Unit/key-workers-real-living-wage)
 
+### Coronavirus delays cleaner air plans in cities
+
+In March 2020 the England Data Unit and the Shared Data Unit worked with the Local Democracy Reporting Service to [report](https://www.bbc.co.uk/news/uk-england-52035655) on delays to plans to reduce high-polluting vehicles travelling around UK cities due to the coronavirus crisis.
+
+* [Github repo](https://github.com/BBC-Data-Unit/Coronavirus-clean-air-zones)
+
 ### Coronavirus: Volunteers flock to join community support groups
 In March 2020, the BBC Shared Data unit [reported](https://www.bbc.co.uk/news/uk-england-51978388) that nearly 1,000 mutual aid groups had been set up since the outbreak of coronavirus.
 

@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Coronavirus: Firms urged to honour living wage pledge
+
+In April 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52110652) hundreds of thousands of key workers considered critical to the UK’s response to the coronavirus crisis were earning below the so-called “real living wage”.
+
+* [Github repo](https://github.com/BBC-Data-Unit/key-workers-real-living-wage)
+
 ### Coronavirus: Volunteers flock to join community support groups
 In March 2020, the BBC Shared Data unit [reported](https://www.bbc.co.uk/news/uk-england-51978388) that nearly 1,000 mutual aid groups had been set up since the outbreak of coronavirus.
 

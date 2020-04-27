@@ -37,6 +37,12 @@ In April 2020 the BBC England Data Unit and the BBC Shared Data Unit [reported](
 
 * [Github repo](https://github.com/BBC-Data-Unit/flights-drop-during-lockdown)
 
+### Coronavirus: Thousands fined by police for flouting lockdown
+
+In April 2020 the BBC Shared Data Unit shared with partners the rate of fines for breaching social distancing rules per 10,000 people in each police force area between 27 March and 13 April. 
+
+* [Github repo](https://github.com/BBC-Data-Unit/social-distancing-fines)
+
 ### Coronavirus: How GPs have stopped seeing most patients in person
 
 In April 2020 the BBC England Data Unit and the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52216222) on the change in GP appointments - from 80% being in person in 2019, to 7% during the coronavirus outbreak, according to Professor Martin Marshall, chairman of the Royal College of GPs.

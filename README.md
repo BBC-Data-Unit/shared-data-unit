@@ -19,6 +19,18 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Coronavirus: Firms face 'inexcusable' delay over lockdown grants
+
+In April 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52416823) that about half of companies eligible for emergency coronavirus grants had not yet received funding.
+
+* [Github repo](https://github.com/BBC-Data-Unit/coronavirus-grants)
+
+### Coronavirus: Pub landlords turn to punters to survive lockdown
+
+In April 2020 the BBC England Data Unit and the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-52369758) on pubs and restaurants turning to crowdfunding websites to survive the coronavirus lockdown.
+
+* [Github repo](https://github.com/BBC-Data-Unit/coronavirus-crowdfundingpubs)
+
 ### Coronavirus: How GPs have stopped seeing most patients in person
 
 In April 2020 the BBC England Data Unit and the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52216222) on the change in GP appointments - from 80% being in person in 2019, to 7% during the coronavirus outbreak, according to Professor Martin Marshall, chairman of the Royal College of GPs.

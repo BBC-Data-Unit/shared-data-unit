@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Coronavirus: How GPs have stopped seeing most patients in person
+
+In April 2020 the BBC England Data Unit and the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52216222) on the change in GP appointments - from 80% being in person in 2019, to 7% during the coronavirus outbreak, according to Professor Martin Marshall, chairman of the Royal College of GPs.
+
+* [Github repo](https://github.com/BBC-Data-Unit/Coronavirus-GPs)
+
 ### Coronavirus lockdown sees air pollution plummet across UK
 
 In April 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52202974) on significant drops in air pollution in the two weeks since the country went into lockdown to stop the spread of coronavirus.

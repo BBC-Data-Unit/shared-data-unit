@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Coronavirus lockdown sees air pollution plummet across UK
+
+In April 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52202974) on significant drops in air pollution in the two weeks since the country went into lockdown to stop the spread of coronavirus.
+
+* [Github repo](https://github.com/BBC-Data-Unit/Coronavirus-air-pollution)
+
 ### Coronavirus: Firms urged to honour living wage pledge
 
 In April 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52110652) hundreds of thousands of key workers considered critical to the UK’s response to the coronavirus crisis were earning below the so-called “real living wage”.
@@ -27,7 +33,7 @@ In April 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-
 
 ### Coronavirus delays cleaner air plans in cities
 
-In March 2020 the England Data Unit and the Shared Data Unit worked with the Local Democracy Reporting Service to [report](https://www.bbc.co.uk/news/uk-england-52035655) on delays to plans to reduce high-polluting vehicles travelling around UK cities due to the coronavirus crisis.
+In March 2020 the BBC England Data Unit and the BBC Shared Data Unit worked with the Local Democracy Reporting Service to [report](https://www.bbc.co.uk/news/uk-england-52035655) on delays to plans to reduce high-polluting vehicles travelling around UK cities due to the coronavirus crisis.
 
 * [Github repo](https://github.com/BBC-Data-Unit/Coronavirus-clean-air-zones)
 

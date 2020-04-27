@@ -31,6 +31,12 @@ In April 2020 the BBC England Data Unit and the BBC Shared Data Unit [reported](
 
 * [Github repo](https://github.com/BBC-Data-Unit/coronavirus-crowdfundingpubs)
 
+### Coronavirus: Airports 'at risk' of closure as flights drop 90%
+
+In April 2020 the BBC England Data Unit and the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52323416) experts warning some airports were "at risk" of closure because of the loss of business during the coronavirus pandemic.
+
+* [Github repo](https://github.com/BBC-Data-Unit/flights-drop-during-lockdown)
+
 ### Coronavirus: How GPs have stopped seeing most patients in person
 
 In April 2020 the BBC England Data Unit and the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52216222) on the change in GP appointments - from 80% being in person in 2019, to 7% during the coronavirus outbreak, according to Professor Martin Marshall, chairman of the Royal College of GPs.

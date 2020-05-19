@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Coronavirus: Push for cycling despite safety fears
+
+In May 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-52708687) that three in five people felt cycling on the road was too dangerous, as cycling was pushed as an alternative to public transport.
+
+* [Github repo]()
+
 ### Coronavirus: Firms face 'inexcusable' delay over lockdown grants
 
 In April 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52416823) that about half of companies eligible for emergency coronavirus grants had not yet received funding.

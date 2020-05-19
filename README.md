@@ -23,7 +23,13 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 In May 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-52708687) that three in five people felt cycling on the road was too dangerous, as cycling was pushed as an alternative to public transport.
 
-* [Github repo]()
+* [Github repo](https://github.com/BBC-Data-Unit/cycling_to_work)
+
+### Coronavirus: Council bosses 'short-changed' by government fund
+
+In May 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52491817) that emergency council funding during the crisis could fail to cover care costs.
+
+* [Github repo](https://github.com/BBC-Data-Unit/coronavirus_council_funding)
 
 ### Coronavirus: Firms face 'inexcusable' delay over lockdown grants
 

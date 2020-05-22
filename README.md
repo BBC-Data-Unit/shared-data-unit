@@ -25,6 +25,12 @@ In May 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-52
 
 * [Github repo](https://github.com/BBC-Data-Unit/cycling_to_work)
 
+### Live music circuit 'risks collapse within weeks'
+
+In May 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52573685) on fears that the UK's scene would collapse without government support, as the lockdown left 140,000 performers, agents, promoters and technicians without a steady income since the end of March.
+
+* [Github repo](https://github.com/BBC-Data-Unit/coronavirus-livemusic)
+
 ### Coronavirus: Council bosses 'short-changed' by government fund
 
 In May 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52491817) that emergency council funding during the crisis could fail to cover care costs.

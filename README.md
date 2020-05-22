@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Online casino searches at 'all-time high' during lockdown
+
+In May 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52633355) search interest in online casinos had hit an all-time high in the UK since lockdown began, according to data.
+
+* [Github repo](https://github.com/BBC-Data-Unit/lockdown-gambling)
+
 ### Coronavirus: Push for cycling despite safety fears
 
 In May 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-52708687) that three in five people felt cycling on the road was too dangerous, as cycling was pushed as an alternative to public transport.

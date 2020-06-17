@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Lockdown break-ups and job changes boost rentals
+
+In June 2020 we [reported](https://www.bbc.co.uk/news/uk-england-52847319) on how lockdown break-ups, job losses and urgent relocations were thought to have led to a surge in the rental sector, according to data provided by Rightmove.
+
+* [Github repo](https://github.com/BBC-Data-Unit/coronavirus-rentals)
+
 ### Online casino searches at 'all-time high' during lockdown
 
 In May 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52633355) search interest in online casinos had hit an all-time high in the UK since lockdown began, according to data.

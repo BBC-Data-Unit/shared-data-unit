@@ -25,6 +25,12 @@ In June 2020 we [reported](https://www.bbc.co.uk/news/uk-53069772) how some of t
 
 * [Github repo](https://github.com/BBC-Data-Unit/council_covid_bankrupt)
 
+### Remote hearings for family courts 'horribly cruel'
+
+In June 2020 we [reported](https://www.bbc.co.uk/news/uk-england-52854168) on how remote court hearings by video or telephone used during the pandemic could be disadvantaging more vulnerable people.
+
+* [Github repo](https://github.com/BBC-Data-Unit/remote_courts)
+
 ### Lockdown break-ups and job changes boost rentals
 
 In June 2020 we [reported](https://www.bbc.co.uk/news/uk-england-52847319) on how lockdown break-ups, job losses and urgent relocations were thought to have led to a surge in the rental sector, according to data provided by Rightmove.

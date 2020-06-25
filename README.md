@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### UK councils fear bankruptcy amid Covid-19 costs
+
+In June 2020 we [reported](https://www.bbc.co.uk/news/uk-53069772) how some of the largest UK councils may have to declare themselves effectively bankrupt unless the government agrees to further support.
+
+* [Github repo](https://github.com/BBC-Data-Unit/council_covid_bankrupt)
+
 ### Lockdown break-ups and job changes boost rentals
 
 In June 2020 we [reported](https://www.bbc.co.uk/news/uk-england-52847319) on how lockdown break-ups, job losses and urgent relocations were thought to have led to a surge in the rental sector, according to data provided by Rightmove.

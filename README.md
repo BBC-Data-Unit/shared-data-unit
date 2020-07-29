@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Coronavirus: Business rescue package has 'delayed the inevitable'
+
+In July 2020 we [reported](https://www.bbc.co.uk/news/uk-53417948) how businesses tided over through summer with government measures could face insolvency coming out of lockdown as social distancing and other economic pressures hit.
+
+* [Github repo](https://github.com/BBC-Data-Unit/insolvencies-coronavirus)
+
 ### UK councils fear bankruptcy amid Covid-19 costs
 
 In June 2020 we [reported](https://www.bbc.co.uk/news/uk-53069772) how some of the largest UK councils may have to declare themselves effectively bankrupt unless the government agrees to further support.

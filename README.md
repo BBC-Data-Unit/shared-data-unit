@@ -31,17 +31,17 @@ In July 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-e
 
 * [Github repo](https://github.com/BBC-Data-Unit/gambling-treatments)
 
-### Gambling addiction fear over council-run lotteries
-
-In July 2020 we [reported](https://www.bbc.co.uk/news/uk-england-53435016) on fears over lotteries with jackpots of up to £25,000 being run by local authorities in a bid to raise funds for cultural activities and events in the wake of coronavirus.
-
-* [Github repo](https://github.com/BBC-Data-Unit/council-lotteries)
-
 ### Coronavirus: Young people on benefits double in lockdown
 
 In July 2020, we [reported](https://www.bbc.co.uk/news/uk-53430775) how more than one in six young people are now claiming out-of-work benefits in some parts of the UK.
 
 * [Github repo](https://github.com/BBC-Data-Unit/Young_benefits_claimants)
+
+### Gambling addiction fear over council-run lotteries
+
+In July 2020 we [reported](https://www.bbc.co.uk/news/uk-england-53435016) on fears over lotteries with jackpots of up to £25,000 being run by local authorities in a bid to raise funds for cultural activities and events in the wake of coronavirus.
+
+* [Github repo](https://github.com/BBC-Data-Unit/council-lotteries)
 
 ### UK councils fear bankruptcy amid Covid-19 costs
 

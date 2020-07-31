@@ -25,6 +25,12 @@ In July 2020 we [reported](https://www.bbc.co.uk/news/uk-53417948) how businesse
 
 * [Github repo](https://github.com/BBC-Data-Unit/insolvencies-coronavirus)
 
+### Coronavirus: Gambling addiction treatments paused as staff redeployed
+
+In July 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-53351411) treatments for dozens of people with gambling addictions across Great Britain were paused as NHS staff were redeployed due to coronavirus.
+
+* [Github repo](https://github.com/BBC-Data-Unit/gambling-treatments)
+
 ### Gambling addiction fear over council-run lotteries
 
 In July 2020 we [reported](https://www.bbc.co.uk/news/uk-england-53435016) on fears over lotteries with jackpots of up to £25,000 being run by local authorities in a bid to raise funds for cultural activities and events in the wake of coronavirus.

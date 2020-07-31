@@ -25,6 +25,18 @@ In July 2020 we [reported](https://www.bbc.co.uk/news/uk-53417948) how businesse
 
 * [Github repo](https://github.com/BBC-Data-Unit/insolvencies-coronavirus)
 
+### Gambling addiction fear over council-run lotteries
+
+In July 2020 we [reported](https://www.bbc.co.uk/news/uk-england-53435016) on fears over lotteries with jackpots of up to £25,000 being run by local authorities in a bid to raise funds for cultural activities and events in the wake of coronavirus.
+
+* [Github repo](https://github.com/BBC-Data-Unit/council-lotteries)
+
+### Coronavirus: Young people on benefits double in lockdown
+
+In July 2020, we [reported](https://www.bbc.co.uk/news/uk-53430775) how more than one in six young people are now claiming out-of-work benefits in some parts of the UK.
+
+* [Github repo](https://github.com/BBC-Data-Unit/Young_benefits_claimants)
+
 ### UK councils fear bankruptcy amid Covid-19 costs
 
 In June 2020 we [reported](https://www.bbc.co.uk/news/uk-53069772) how some of the largest UK councils may have to declare themselves effectively bankrupt unless the government agrees to further support.

@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### UK flu jab rates prompt complacency warning
+
+In August 2020 we [reported](https://www.bbc.co.uk/news/uk-53889184) that flu vaccination rates among the most vulnerable were falling, revealing the scale of the challenge in expanding the vaccination programme.
+
+* [Github repo](https://github.com/BBC-Data-Unit/flu_vaccination)
+
 ### Coronavirus: Business rescue package has 'delayed the inevitable'
 
 In July 2020 we [reported](https://www.bbc.co.uk/news/uk-53417948) how businesses tided over through summer with government measures could face insolvency coming out of lockdown as social distancing and other economic pressures hit.

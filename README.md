@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Benefit claimants face landlord discrimination despite ruling
+
+In August 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-53821317) thousands of landlords were trying to avoid renting their properties to benefit claimants, despite a judge ruling a blanket ban was unlawful.
+
+* [Github repo](https://github.com/BBC-Data-Unit/no-DSS-continues)
+
 ### UK flu jab rates prompt complacency warning
 
 In August 2020 we [reported](https://www.bbc.co.uk/news/uk-53889184) that flu vaccination rates among the most vulnerable were falling, revealing the scale of the challenge in expanding the vaccination programme.

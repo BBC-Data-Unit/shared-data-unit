@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Surgeries at face-to-face capacity, GP body warns
+
+In September 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-54180359) how the number of GP appointments had reduced post-lockdown, with concerns from charities that some elderly people felt their GP was not "open for business".
+
+* [Github repo](https://github.com/BBC-Data-Unit/gp_face_to_face_appointments)
+
 ### Benefit claimants face landlord discrimination despite ruling
 
 In August 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-53821317) thousands of landlords were trying to avoid renting their properties to benefit claimants, despite a judge ruling a blanket ban was unlawful.

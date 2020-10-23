@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### UK police forces wrongly cancelled reports of serious crimes
+
+In October 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-54449321) police had wrongly cancelled records of serious crimes, in many cases without informing victims, analysis of official reports shows.
+
+* [Github repo](https://github.com/BBC-Data-Unit/cancelled_crimes)
+
 ### Surgeries at face-to-face capacity, GP body warns
 
 In September 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-54180359) how the number of GP appointments had reduced post-lockdown, with concerns from charities that some elderly people felt their GP was not "open for business".

@@ -19,21 +19,33 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Covid: Small charities face 'slow death'
+
+In November 2020, we [reported](https://www.bbc.co.uk/news/uk-54754902) experts' fears that thousands of smaller charities across the UK could cease to exist in the new year, following a shift in the nature of giving.
+
+* [Github repo](https://github.com/BBC-Data-Unit/Coronavirus_small_charities)
+
 ### UK police forces wrongly cancelled reports of serious crimes
 
-In October 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-54449321) police had wrongly cancelled records of serious crimes, in many cases without informing victims, analysis of official reports shows.
+In October 2020, we [reported](https://www.bbc.co.uk/news/uk-54449321) police had wrongly cancelled records of serious crimes, in many cases without informing victims, analysis of official reports shows.
 
 * [Github repo](https://github.com/BBC-Data-Unit/cancelled_crimes)
 
+### Covid: UK live music scene on 'red alert' amid pandemic
+
+In October 2020, we [reported](https://www.bbc.co.uk/news/uk-54363095) how the UK risked losing its status as a leader of live music, according to KT Tunstall, with hundreds of venues at risk of closure due to the pandemic.
+
+* [Github repo](https://github.com/BBC-Data-Unit/Music_Venues_2)
+
 ### Surgeries at face-to-face capacity, GP body warns
 
-In September 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-54180359) how the number of GP appointments had reduced post-lockdown, with concerns from charities that some elderly people felt their GP was not "open for business".
+In September 2020, we [reported](https://www.bbc.co.uk/news/uk-england-54180359) how the number of GP appointments had reduced post-lockdown, with concerns from charities that some elderly people felt their GP was not "open for business".
 
 * [Github repo](https://github.com/BBC-Data-Unit/gp_face_to_face_appointments)
 
 ### Benefit claimants face landlord discrimination despite ruling
 
-In August 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-53821317) thousands of landlords were trying to avoid renting their properties to benefit claimants, despite a judge ruling a blanket ban was unlawful.
+In August 2020, we [reported](https://www.bbc.co.uk/news/uk-53821317) thousands of landlords were trying to avoid renting their properties to benefit claimants, despite a judge ruling a blanket ban was unlawful.
 
 * [Github repo](https://github.com/BBC-Data-Unit/no-DSS-continues)
 
@@ -51,7 +63,7 @@ In July 2020 we [reported](https://www.bbc.co.uk/news/uk-53417948) how businesse
 
 ### Coronavirus: Gambling addiction treatments paused as staff redeployed
 
-In July 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-53351411) treatments for dozens of people with gambling addictions across Great Britain were paused as NHS staff were redeployed due to coronavirus.
+In July 2020 we [reported](https://www.bbc.co.uk/news/uk-england-53351411) treatments for dozens of people with gambling addictions across Great Britain were paused as NHS staff were redeployed due to coronavirus.
 
 * [Github repo](https://github.com/BBC-Data-Unit/gambling-treatments)
 
@@ -87,25 +99,25 @@ In June 2020 we [reported](https://www.bbc.co.uk/news/uk-england-52847319) on ho
 
 ### Online casino searches at 'all-time high' during lockdown
 
-In May 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52633355) search interest in online casinos had hit an all-time high in the UK since lockdown began, according to data.
+In May 2020 we [reported](https://www.bbc.co.uk/news/uk-england-52633355) search interest in online casinos had hit an all-time high in the UK since lockdown began, according to data.
 
 * [Github repo](https://github.com/BBC-Data-Unit/lockdown-gambling)
 
 ### Coronavirus: Push for cycling despite safety fears
 
-In May 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-52708687) that three in five people felt cycling on the road was too dangerous, as cycling was pushed as an alternative to public transport.
+In May 2020 we [reported](https://www.bbc.co.uk/news/uk-52708687) that three in five people felt cycling on the road was too dangerous, as cycling was pushed as an alternative to public transport.
 
 * [Github repo](https://github.com/BBC-Data-Unit/cycling_to_work)
 
 ### Live music circuit 'risks collapse within weeks'
 
-In May 2020 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52573685) on fears that the UK's scene would collapse without government support, as the lockdown left 140,000 performers, agents, promoters and technicians without a steady income since the end of March.
+In May 2020 we [reported](https://www.bbc.co.uk/news/uk-england-52573685) on fears that the UK's scene would collapse without government support, as the lockdown left 140,000 performers, agents, promoters and technicians without a steady income since the end of March.
 
 * [Github repo](https://github.com/BBC-Data-Unit/coronavirus-livemusic)
 
 ### Coronavirus: Council bosses 'short-changed' by government fund
 
-In May 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-england-52491817) that emergency council funding during the crisis could fail to cover care costs.
+In May 2020, we [reported](https://www.bbc.co.uk/news/uk-england-52491817) that emergency council funding during the crisis could fail to cover care costs.
 
 * [Github repo](https://github.com/BBC-Data-Unit/coronavirus_council_funding)
 

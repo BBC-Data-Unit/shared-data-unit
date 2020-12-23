@@ -21,7 +21,7 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ### Covid: Cancer scan backlog raises late detection fears
 
-In December, 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-55234280) millions of people missed out on potentially life-saving scans when non-Covid-19 NHS services almost ground to a halt during the pandemic.
+In December, 2020, we [reported](https://www.bbc.co.uk/news/uk-55234280) millions of people missed out on potentially life-saving scans when non-Covid-19 NHS services almost ground to a halt during the pandemic.
 
 * [Github repo](https://github.com/BBC-Data-Unit/Diagnostic_scan_backlog)
 

@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Covid: Cancer scan backlog raises late detection fears
+
+In December, 2020, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-55234280) millions of people missed out on potentially life-saving scans when non-Covid-19 NHS services almost ground to a halt during the pandemic.
+
+* [Github repo](https://github.com/BBC-Data-Unit/Diagnostic_scan_backlog)
+
 ### Covid: Small charities face 'slow death'
 
 In November 2020, we [reported](https://www.bbc.co.uk/news/uk-54754902) experts' fears that thousands of smaller charities across the UK could cease to exist in the new year, following a shift in the nature of giving.

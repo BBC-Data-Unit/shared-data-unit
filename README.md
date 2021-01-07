@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Blue badge permit 'shocking disparity' revealed
+
+In January 2021, we [reported](https://www.bbc.co.uk/news/uk-55221474) people with non-visible disabilities such as autism or Parkinson's disease faced what a charity called a "shocking disparity" when applying for a blue badge parking permit.
+
+* [Github repo](https://github.com/BBC-Data-Unit/blue-badges)
+
 ### Covid: Cancer scan backlog raises late detection fears
 
 In December, 2020, we [reported](https://www.bbc.co.uk/news/uk-55234280) millions of people missed out on potentially life-saving scans when non-Covid-19 NHS services almost ground to a halt during the pandemic.

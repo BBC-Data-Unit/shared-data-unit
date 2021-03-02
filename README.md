@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Tourism hotspots hit hard by Covid-19 jobs crisis
+
+In March 2021, we [reported](https://www.bbc.co.uk/news/uk-56127385) parts of the UK reliant on tourism had been most affected by the Covid-19 jobs crisis, according to analysis.
+
+* [Github repo](https://github.com/BBC-Data-Unit/Universal-credit)
+
 ### Blue badge permit 'shocking disparity' revealed
 
 In January 2021, we worked with the Local Democracy Reporting Service to [report](https://www.bbc.co.uk/news/uk-55221474) people with non-visible disabilities such as autism or Parkinson's disease faced what a charity called a "shocking disparity" when applying for a blue badge parking permit.

@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Coronavirus: Prisoners' children 'forgotten' during pandemic
+
+In March 2021, we [reported](https://www.bbc.co.uk/news/uk-56420186) some 300,000 children of UK prisoners had been "forgotten" during the pandemic, with some inmates limited to just one or two face-to-face visits.
+
+* [Github repo](https://github.com/BBC-Data-Unit/prisons-children-coronavirus)
+
 ### Tourism hotspots hit hard by Covid-19 jobs crisis
 
 In March 2021, we [reported](https://www.bbc.co.uk/news/uk-56127385) parts of the UK reliant on tourism had been most affected by the Covid-19 jobs crisis, according to analysis.

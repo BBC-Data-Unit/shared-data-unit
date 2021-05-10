@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Deaths of people on benefits prompt inquiry call
+
+In May 2021, we [reported](https://www.bbc.co.uk/news/uk-56819727) that cases where people claiming benefits died or came to serious harm had led to more than 150 internal reviews by the Department for Work & Pensions(DWP) since 2012.
+
+* [Github repo](https://github.com/BBC-Data-Unit/deaths-of-people-claiming-benefits)
+
 ### Coronavirus: Prisoners' children 'forgotten' during pandemic
 
 In March 2021, we [reported](https://www.bbc.co.uk/news/uk-56420186) some 300,000 children of UK prisoners had been "forgotten" during the pandemic, with some inmates limited to just one or two face-to-face visits.

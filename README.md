@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### 'My stalker told my friends and family I had HIV'
+
+In May 2021, we worked with Newsbeat and BBC Radio Wales to [report](https://www.bbc.co.uk/news/uk-57384615) on new stalking laws that were not being used by all police forces in the country to protect victims. 
+
+* [Github repo](https://github.com/BBC-Data-Unit/stalking_protection_orders/)
+
 ### Deaths of people on benefits prompt inquiry call
 
 In May 2021, we [reported](https://www.bbc.co.uk/news/uk-56819727) that cases where people claiming benefits died or came to serious harm had led to more than 150 internal reviews by the Department for Work & Pensions(DWP) since 2012.

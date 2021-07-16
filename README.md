@@ -19,6 +19,10 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### DWP sees 'sharp rise' in benefit death reviews
+
+In July 2021, we [reported](https://www.bbc.co.uk/news/uk-57726608) the number of internal reviews held by the Department for Work and Pensions (DWP) when a person claiming benefits died or had come to serious harm had risen in the previous two years, according to newly-released figures.
+
 ### Covid leaves UK councils with £3bn financial black hole
 
 In July 2021, we [reported](https://www.bbc.co.uk/news/uk-57720900) UK councils faced a £3bn black hole in their budgets as they emerged from the coronavirus pandemic, based on an analysis of the budgets set by 170 upper and single-tier councils.

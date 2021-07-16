@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Covid leaves UK councils with £3bn financial black hole
+
+In July 2021, we [reported](https://www.bbc.co.uk/news/uk-57720900) UK councils faced a £3bn black hole in their budgets as they emerged from the coronavirus pandemic, based on an analysis of the budgets set by 170 upper and single-tier councils.
+
+* [Github repo](https://github.com/BBC-Data-Unit/Council_cuts_during_the_pandemic)
+
 ### 'My stalker told my friends and family I had HIV'
 
 In May 2021, we worked with Newsbeat and BBC Radio Wales to [report](https://www.bbc.co.uk/news/uk-57384615) on new stalking laws that were not being used by all police forces in the country to protect victims. 

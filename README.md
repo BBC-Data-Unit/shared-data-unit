@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Record numbers of mental health referrals across Great Britain
+
+In August 2021, we [reported](https://www.bbc.co.uk/news/uk-58085428) on record numbers of combined mental health referrals to NHS Services in England, Wales, Scotland and Northern Ireland.
+
+* [Github repo](https://github.com/BBC-Data-Unit/mental-health-referrals)
+
 ### DWP sees 'sharp rise' in benefit death reviews
 
 In July 2021, we [reported](https://www.bbc.co.uk/news/uk-57726608) the number of internal reviews held by the Department for Work and Pensions (DWP) when a person claiming benefits died or had come to serious harm had risen in the previous two years, according to newly-released figures.

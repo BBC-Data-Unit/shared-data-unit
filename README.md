@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Seven out of 10 win benefits challenges at tribunal
+
+In September 2021, we [reported](https://www.bbc.co.uk/news/uk-58284613) seven out of ten people who appealed in court against a decision to deny them disability benefits were successful.
+
+* [Github repo](https://github.com/BBC-Data-Unit/benefits_tribunals)
+
 ### Record numbers of mental health referrals across Great Britain
 
 In August 2021, we [reported](https://www.bbc.co.uk/news/uk-58085428) on record numbers of combined mental health referrals to NHS Services in England, Wales, Scotland and Northern Ireland.

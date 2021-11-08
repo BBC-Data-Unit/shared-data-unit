@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Hundred people die fighting for terminal illness benefits
+
+In November 2021, we [reported](https://www.bbc.co.uk/news/uk-59067101) around 100 people who were denied fast-tracked disability benefits for terminal illness had died challenging the decision since 2018.
+
+* [Github repo](https://github.com/BBC-Data-Unit/terminal-illness-benefits)
+
 ### Seven out of 10 win benefits challenges at tribunal
 
 In September 2021, we [reported](https://www.bbc.co.uk/news/uk-58284613) seven out of ten people who appealed in court against a decision to deny them disability benefits were successful.

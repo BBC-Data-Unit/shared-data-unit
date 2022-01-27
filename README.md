@@ -19,6 +19,13 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### NHS dentistry "hanging by a thread" with two-year waits for check-ups
+
+In January 2022 the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-59874320) around 1,000 NHS dentists left the health service last year - the equivelent of more than 2,500 posts across England and Wales.
+
+* [Github repo](https://github.com/BBC-Data-Unit/NHS_dentists)
+
+
 ### Hundred people die fighting for terminal illness benefits
 
 In November 2021, we [reported](https://www.bbc.co.uk/news/uk-59067101) around 100 people who were denied fast-tracked disability benefits for terminal illness had died challenging the decision since 2018.

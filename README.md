@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+## Gross misconduct probe police officers avoid sack
+
+In February 2022, we [reported](https://www.bbc.co.uk/news/uk-59594712) around half of police employees who had committed gross misconduct since the formation of the latest police watchdog had not been dismissed. 
+
+* [Github repo](https://github.com/BBC-Data-Unit/police_misconduct)
+
 ### NHS dentistry "hanging by a thread" with two-year waits for check-ups
 
 In January 2022, we [reported](https://www.bbc.co.uk/news/uk-59874320) around 1,000 NHS dentists left the health service in the past year - equivalent to more than 2,500 posts across England and Wales.

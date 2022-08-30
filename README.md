@@ -19,19 +19,19 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
-## Growth in NHS recruits from abroad prompts concern about over-reliance
+### Growth in NHS recruits from abroad prompts concern about over-reliance
 
 In August 2022, we [reported](https://www.bbc.co.uk/news/uk-61230287) how the share of homegrown doctors and nurses joining England's NHS had reached its lowest point in seven years.
 
 * [Github repo](https://github.com/BBC-Data-Unit/NHS_workforce_crisis)
 
-## Music festivals: Only 13% of UK headliners in 2022 are female
+### Music festivals: Only 13% of UK headliners in 2022 are female
 
 In May 2022, we teamed up with Radio 1's Newsbeat to [report](https://www.bbc.co.uk/news/newsbeat-61512053) only one in ten headliners at the UK's top music festivals that summer would be women.
 
 * [Github repo](https://github.com/BBC-Data-Unit/Festivals_2022)
 
-## Gross misconduct probe police officers avoid sack
+### Gross misconduct probe police officers avoid sack
 
 In February 2022, we [reported](https://www.bbc.co.uk/news/uk-59594712) around half of police employees who had committed gross misconduct since the formation of the latest police watchdog had not been dismissed. 
 

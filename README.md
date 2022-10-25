@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Postcode lottery of menopause care revealed
+
+In October 2022, we revealed a postcode lottery in terms of the amount of money NHS Clinical Commissioning Groups (CCGs) spend per woman aged 45-60 on common hormone replacement therapy (HRT) treatments.
+
+* [Github repo](https://github.com/BBC-Data-Unit/Hormone_replacement_therapy)
+
 ### Growth in NHS recruits from abroad prompts concern about over-reliance
 
 In August 2022, we [reported](https://www.bbc.co.uk/news/uk-61230287) how the share of homegrown doctors and nurses joining England's NHS had reached its lowest point in seven years.

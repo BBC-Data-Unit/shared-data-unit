@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Benefit cuts for disabled people in hospital called unfair
+
+In November 2022, we [reported](https://www.bbc.co.uk/news/uk-63036042) thousands of disabled people had had their benefits paused during extended hospital stays under a rule which charities said penalised the most vulnerable.
+
+* [Github repo](https://github.com/BBC-Data-Unit/disability-benefits-suspended)
+
 ### Postcode lottery of menopause care revealed
 
 In October 2022, we [revealed](https://www.bbc.co.uk/news/uk-england-62849438) a postcode lottery in terms of the amount of money NHS Clinical Commissioning Groups (CCGs) spend per woman aged 45-60 on common hormone replacement therapy (HRT) treatments.

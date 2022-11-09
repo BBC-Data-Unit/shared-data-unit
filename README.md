@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Child speech delays increase following lockdowns
+
+In November 2022, we [reported](https://www.bbc.co.uk/news/education-63373804) the number of five and six year olds who needed speech and language support at school had risen by 10% in England over the past year.
+
+* [Github repo](https://github.com/BBC-Data-Unit/child-speech)
+
 ### Benefit cuts for disabled people in hospital called unfair
 
 In November 2022, we [reported](https://www.bbc.co.uk/news/uk-63036042) thousands of disabled people had had their benefits paused during extended hospital stays under a rule which charities said penalised the most vulnerable.

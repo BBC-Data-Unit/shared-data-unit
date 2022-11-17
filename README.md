@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Scale of "toxic" tweets received by politicians revealed
+
+In November 2022 the BBC Shared Data Unit [shared an analysis](https://www.bbc.co.uk/news/uk-63330885) of almost 3 million tweets mentioning politicians' Twitter accounts. More than 3,000 tweets are sent to UK Members of Parliament every day that a Google algorithm classified as "toxic", it found. The project used 'big data' tools and artificial intelligence to analyse the data. 
+
+* [Github repo](https://github.com/BBC-Data-Unit/social-media-abuse)
+
 ### Child speech delays increase following lockdowns
 
 In November 2022, we [reported](https://www.bbc.co.uk/news/education-63373804) the number of five and six year olds who needed speech and language support at school had risen by 10% in England over the past year.

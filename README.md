@@ -21,17 +21,13 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ### Stalking victims not protected by police, say campaigners
 
-In November 2022 the BBC Shared Data Unit reported the rate of reported stalkers charged by police has almost halved over the last two years, according to government data.
-Figures analysed found charge rates have fallen from 11% to 6% between 2020-2022, a continuing year-on-year trend from 2014/15 where it was as high as 37%.
-According to the data, a third of all cases are dropped because of difficulties in collecting evidence - despite the victim supporting action.
-
-More than half of reported cases end with the victims not supporting further action.
+In November 2022 we collaborated with BBC Radio 4's Woman's Hour to [report](https://www.bbc.co.uk/news/uk-63668714) the rate of reported stalkers charged by police had almost halved over the previous two years, according to government data.
 
 * [Github repo](https://github.com/BBC-Data-Unit/stalking_laws/tree/main)
 
 ### Scale of "toxic" tweets received by politicians revealed
 
-In November 2022 the BBC Shared Data Unit [shared an analysis](https://www.bbc.co.uk/news/uk-63330885) of almost 3 million tweets mentioning politicians' Twitter accounts. More than 3,000 tweets are sent to UK Members of Parliament every day that a Google algorithm classified as "toxic", it found. The project used 'big data' tools and artificial intelligence to analyse the data. 
+In November 2022 we [shared an analysis](https://www.bbc.co.uk/news/uk-63330885) of almost 3 million tweets mentioning politicians' Twitter accounts. More than 3,000 tweets were sent to UK Members of Parliament every day that a Google algorithm classified as "toxic", it found. The project used "big data" tools and artificial intelligence to analyse the data. 
 
 * [Github repo](https://github.com/BBC-Data-Unit/social-media-abuse)
 

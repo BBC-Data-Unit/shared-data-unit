@@ -19,6 +19,9 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### More councils drop holiday food voucher schemes for Christmas
+In December 2022 we looked at the patchwork provision of holiday food vouchers being offered to families with children in receipt of Free School Meals (FSM) in England.
+
 ### Stalking victims not protected by police, say campaigners
 
 In November 2022 we collaborated with BBC Radio 4's Woman's Hour to [report](https://www.bbc.co.uk/news/uk-63668714) the rate of reported stalkers charged by police had almost halved over the previous two years, according to government data.

@@ -22,7 +22,7 @@ We believe in making our journalism accessible to as many people as possible.  W
 ### More councils drop holiday food voucher schemes for Christmas
 In December 2022 we looked at the patchwork provision of holiday food vouchers being offered to families with children in receipt of Free School Meals (FSM) in England.
 
-*[Github repo](https://github.com/BBC-Data-Unit/Holiday_food_vouchers/blob/main)
+* [Github repo](https://github.com/BBC-Data-Unit/Holiday_food_vouchers/tree/main)
 
 ### Stalking victims not protected by police, say campaigners
 

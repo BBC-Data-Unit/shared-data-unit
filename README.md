@@ -19,6 +19,11 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Hundreds of UK sex offenders went missing, figures show
+In March 2023, we collaborated with BBC News's Midlands & South Bureau to [report](https://www.bbc.co.uk/news/uk-64624921) hundreds of sex offenders across the UK had slipped off the radar of police in a three-year period.
+
+* [Github repo](https://github.com/BBC-Data-Unit/sex-offender-name-changes) 
+
 ### More councils drop holiday food voucher schemes for Christmas
 In December 2022 we looked at the patchwork provision of holiday food vouchers being offered to families with children in receipt of Free School Meals (FSM) in England.
 

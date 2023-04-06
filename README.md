@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Renting: Six out of 10 renters live in energy-inefficient homes
+
+In April 2023, we worked with BBC's Newsbeat to [report](https://www.bbc.co.uk/news/newsbeat-65136313) that six out of 10 recently inspected UK rental homes failed to meet a proposed new standard for energy efficiency.
+
+* [Github repo](https://github.com/BBC-Data-Unit/energy-efficiency-private-rental)
+
 ### Hundreds of UK sex offenders went missing, figures show
 In March 2023, we collaborated with BBC News's Midlands & South Bureau to [report](https://www.bbc.co.uk/news/uk-64624921) hundreds of sex offenders across the UK had slipped off the radar of police in a three-year period.
 

@@ -21,8 +21,9 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ### Small firm closures behind rise in liquidations, experts say
 
-In June 2023, we analysed THe Gazette to gain a regional picture of the business insolvencies [being experienced across the UK](https://www.bbc.co.uk/news/uk-65767982) as a result of the pandemic and the cost of living crisis.
+In June 2023, we analysed The Gazette to gain a regional picture of the business insolvencies [being experienced across the UK](https://www.bbc.co.uk/news/uk-65767982) as a result of the pandemic and the cost of living crisis.
 
+* [Github repo](https://github.com/BBC-Data-Unit/Liquidations_rise)
 ### Renting: Six out of 10 renters live in energy-inefficient homes
 
 In April 2023, we worked with BBC's Newsbeat to [report](https://www.bbc.co.uk/news/newsbeat-65136313) that six out of 10 recently inspected UK rental homes failed to meet a proposed new standard for energy efficiency.

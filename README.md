@@ -19,6 +19,16 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Black hole in town hall budgets rises to £5bn
+
+In August 2023, we [revealed](https://www.bbc.co.uk/news/uk-66428191) that a black hole in local authority budgets continues to grow, prompting fears some will not be able to provide basic services.
+
+* [Github repo](https://github.com/BBC-Data-Unit/council-finances-23)
+
+### Carer shortage: Woman stuck in hospital for 11 months
+
+In July 2023, we [reported](https://www.bbc.co.uk/news/uk-wales-66260332) that 23% of councils in the UK who provided data had average delays of over a month for care assessments, with some people waiting years for care.
+
 ### Small firm closures behind rise in liquidations, experts say
 
 In June 2023, we analysed The Gazette to gain a regional picture of the business insolvencies [being experienced across the UK](https://www.bbc.co.uk/news/uk-65767982) as a result of the pandemic and the cost of living crisis.
@@ -36,7 +46,7 @@ In March 2023, we collaborated with BBC News's Midlands & South Bureau to [repor
 * [Github repo](https://github.com/BBC-Data-Unit/sex-offender-name-changes) 
 
 ### More councils drop holiday food voucher schemes for Christmas
-In December 2022 we looked at the patchwork provision of holiday food vouchers being offered to families with children in receipt of Free School Meals (FSM) in England.
+In December 2022, we [looked at](https://www.bbc.co.uk/news/uk-england-64038416) the patchwork provision of holiday food vouchers being offered to families with children in receipt of Free School Meals (FSM) in England.
 
 * [Github repo](https://github.com/BBC-Data-Unit/Holiday_food_vouchers/tree/main)
 

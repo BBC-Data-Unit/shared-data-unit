@@ -19,6 +19,18 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Councils in crisis: Town Hall debt levels staggering, MPs warn
+
+In January 2024, we [reported](https://www.bbc.co.uk/news/uk-66428191) that UK councils owed a combined £97.8bn to lenders, equivalent to around £1,400 per person.
+
+* [Github repo](https://github.com/BBC-Data-Unit/council-debt-2023)
+
+### NHS: Woman waited nine months for hospital discharge
+
+In November 2023, we [looked at](https://www.bbc.co.uk/news/uk-england-67125440) the large proportion of patients - around 60% - who were having to stay in hospital at the end of each day despite being classed as fit to leave.
+
+* [Github repo](https://github.com/BBC-Data-Unit/social-care-crisis)
+
 ### Black hole in town hall budgets rises to £5bn
 
 In August 2023, we [revealed](https://www.bbc.co.uk/news/uk-66428191) that a black hole in local authority budgets continues to grow, prompting fears some will not be able to provide basic services.
@@ -29,11 +41,14 @@ In August 2023, we [revealed](https://www.bbc.co.uk/news/uk-66428191) that a bla
 
 In July 2023, we [reported](https://www.bbc.co.uk/news/uk-wales-66260332) that 23% of councils in the UK who provided data had average delays of over a month for care assessments, with some people waiting years for care.
 
+* [Github repo](https://github.com/BBC-Data-Unit/social-care-crisis)
+
 ### Small firm closures behind rise in liquidations, experts say
 
 In June 2023, we analysed The Gazette to gain a regional picture of the business insolvencies [being experienced across the UK](https://www.bbc.co.uk/news/uk-65767982) as a result of the pandemic and the cost of living crisis.
 
 * [Github repo](https://github.com/BBC-Data-Unit/Liquidations_rise)
+  
 ### Renting: Six out of 10 renters live in energy-inefficient homes
 
 In April 2023, we worked with BBC's Newsbeat to [report](https://www.bbc.co.uk/news/newsbeat-65136313) that six out of 10 recently inspected UK rental homes failed to meet a proposed new standard for energy efficiency.

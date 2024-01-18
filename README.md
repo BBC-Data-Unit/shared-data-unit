@@ -21,7 +21,7 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ### Councils in crisis: Town Hall debt levels staggering, MPs warn
 
-In January 2024, we [reported](https://www.bbc.co.uk/news/uk-66428191) that UK councils owed a combined £97.8bn to lenders, equivalent to around £1,400 per person.
+In January 2024, we [reported](https://www.bbc.co.uk/news/uk-67707156) that UK councils owed a combined £97.8bn to lenders, equivalent to around £1,400 per person.
 
 * [Github repo](https://github.com/BBC-Data-Unit/council-debt-2023)
 

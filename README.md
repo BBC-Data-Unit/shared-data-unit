@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### NHS crisis: Patient care hit by disrepair in buildings
+
+In February 2024, we [reported](https://www.bbc.co.uk/news/uk-england-68214879) on the scale of the repairs backlog hospitals faced. Our investigation revealed that disrepair in NHS buildings led to thousands of potentially harmful incidents including critically ill patients being moved when rainfall came through the ceiling.
+
+* [Github repo](https://github.com/BBC-Data-Unit/hospitalbuildings)
+
 ### Councils in crisis: Town Hall debt levels staggering, MPs warn
 
 In January 2024, we [reported](https://www.bbc.co.uk/news/uk-67707156) that UK councils owed a combined £97.8bn to lenders, equivalent to around £1,400 per person.

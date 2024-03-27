@@ -19,11 +19,11 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
-## Synthetic opioids: how killer drugs are goinf unreported
+## Synthetic opioids: how killer drugs are going unreported
 
 In March 2024, we looked at the UK government's response to tracking the spread of new super-strength drugs. We found evidence of more than 100 deaths linked to synthetic opioids called nitazenes between July 2023 and February 2024.
 
-*[Github repo]
+*[Github repo](https://github.com/BBC-Data-Unit/Synthetic_opioids)
 
 ### NHS crisis: Patient care hit by disrepair in buildings
 

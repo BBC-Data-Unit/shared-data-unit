@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+## Synthetic opioids: how killer drugs are goinf unreported
+
+In March 2024, we looked at the UK government's response to tracking the spread of new super-strength drugs. We found evidence of more than 100 deaths linked to synthetic opioids called nitazenes between July 2023 and February 2024.
+
+*[Github repo]
+
 ### NHS crisis: Patient care hit by disrepair in buildings
 
 In February 2024, we [reported](https://www.bbc.co.uk/news/uk-england-68214879) on the scale of the repairs backlog hospitals faced. Our investigation revealed that disrepair in NHS buildings led to thousands of potentially harmful incidents including critically ill patients being moved when rainfall came through the ceiling.

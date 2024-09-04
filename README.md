@@ -21,7 +21,7 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ### Public libraries in 'crisis' as councils cut services
 
-In September 2024 we [revealed](https://www.bbc.co.uk/news/articles/cn9lexplel5o) more than 180 council-run libraries have either closed or been handed over to volunteer groups in the UK since 2016.
+In September 2024 we [revealed](https://www.bbc.co.uk/news/articles/cn9lexplel5o) more than 180 council-run libraries had either closed or been handed over to volunteer groups in the UK since 2016.
 
 * [GitHub repo](https://GitHub.com/BBC-Data-Unit/libraries-2024)
 

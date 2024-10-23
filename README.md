@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Burning rubbish now UK’s dirtiest form of power
+
+In October 2024 we [published analysis](https://www.bbc.co.uk/news/articles/cp3wxgje5pwo) revealing that burning household rubbish in giant incinerators to make electricity is now the dirtiest way the UK generates power.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/incinerators)
+  
 ### Public libraries in 'crisis' as councils cut services
 
 In September 2024 we [revealed](https://www.bbc.co.uk/news/articles/cn9lexplel5o) more than 180 council-run libraries had either closed or been handed over to volunteer groups in the UK since 2016.

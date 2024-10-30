@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Deadly new drugs found in fake medicines in the UK
+
+In October 2024, we worked with BBC News's Midlands & South Bureau to [report](https://www.bbc.co.uk/news/articles/cx2520kvl1wo) super-strength drugs linked to hundreds of deaths had been found in samples of fake medicines bought across the UK.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/fake-medicines/tree/main)
+
 ### Burning rubbish now UK’s dirtiest form of power
 
 In October 2024 we [published analysis](https://www.bbc.co.uk/news/articles/cp3wxgje5pwo) revealing that burning household rubbish in giant incinerators to make electricity is now the dirtiest way the UK generates power.

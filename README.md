@@ -25,6 +25,13 @@ In October 2024, we worked with BBC News's Midlands & South Bureau to [report](h
 
 * [GitHub repo](https://github.com/BBC-Data-Unit/fake-medicines/tree/main)
 
+### Children face 'lifetime cost' of council crisis
+
+In October 2024, we [reported](https://www.bbc.co.uk/news/articles/c3rl3z0wn27o) how the wellbeing of children and young people was at risk from cuts to local services, according to a warning from the Children’s Commissioner.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/councils-cuts)
+
+
 ### Burning rubbish now UK’s dirtiest form of power
 
 In October 2024 we [published analysis](https://www.bbc.co.uk/news/articles/cp3wxgje5pwo) revealing that burning household rubbish in giant incinerators to make electricity is now the dirtiest way the UK generates power.

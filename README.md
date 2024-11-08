@@ -23,7 +23,7 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 In October 2024, we worked with BBC News's Midlands & South Bureau to [report](https://www.bbc.co.uk/news/articles/cx2520kvl1wo) super-strength drugs linked to hundreds of deaths had been found in samples of fake medicines bought across the UK.
 
-* [GitHub repo](https://github.com/BBC-Data-Unit/fake-medicines/tree/main)
+* [GitHub repo](https://github.com/BBC-Data-Unit/fake-medicines)
 
 ### Children face 'lifetime cost' of council crisis
 

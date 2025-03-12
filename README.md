@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Police FOI unit dubbed 'authoritarian censor'
+
+In March 2025, we [reported](https://www.bbc.co.uk/news/articles/cn0ypn4pyyro) how a national policing unit had been criticised for telling local forces to block the release of information under laws designed to safeguard the public's right to know.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/policy-transparency)
+
 ### Deadly new drugs found in fake medicines in the UK
 
 In October 2024, we worked with BBC News's Midlands & South Bureau to [report](https://www.bbc.co.uk/news/articles/cx2520kvl1wo) super-strength drugs linked to hundreds of deaths had been found in samples of fake medicines bought across the UK.

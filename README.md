@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Hundreds of disabled teens a week lose disability benefits
+
+In March 2025, we [reported](https://www.bbc.co.uk/news/articles/ckgn1w1jvl9o) on DWP data that shows more than 124,000 young people lost disability payments when trying to transition from childhood to adult benefits.
+
+* [GitHub repo](https://github.com/BBC-Data-Unit/DLA-to-PIP)
+
 ### Police FOI unit dubbed 'authoritarian censor'
 
 In March 2025, we [reported](https://www.bbc.co.uk/news/articles/cn0ypn4pyyro) how a national policing unit had been criticised for telling local forces to block the release of information under laws designed to safeguard the public's right to know.

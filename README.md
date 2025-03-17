@@ -21,9 +21,9 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ### Toxic land across the UK
 
-In March, 2025, the Shared Data Unit reported how thousands of parcels of potentially contaminated land, which have never been checked by local councils, could be posing a risk to health and even life.
+In March, 2025, the Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/c4gez4zgk8ko_) how thousands of parcels of potentially contaminated land, which have never been checked by local councils, could be posing a risk to health and even life.
 
-*[Github repo]
+* [Github repo](https://github.com/BBC-Data-Unit/Toxic_land/blob/main/README.md)
 
 ### Hundreds of disabled teens a week lose disability benefits
 

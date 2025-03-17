@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Toxic land across the UK
+
+In March, 2025, the Shared Data Unit reported how thousands of parcels of potentially contaminated land, which have never been checked by local councils, could be posing a risk to health and even life.
+
+*[Github repo]
+
 ### Hundreds of disabled teens a week lose disability benefits
 
 In March 2025, we [reported](https://www.bbc.co.uk/news/articles/ckgn1w1jvl9o) on DWP data that shows more than 124,000 young people lost disability payments when trying to transition from childhood to adult benefits.

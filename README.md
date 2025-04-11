@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+## QR code scams
+
+In April 2025, the Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/cq6yznmv3gzo) how the number of so-called 'quishing' scams, linked to fake or fraudulent QR codes, rose 14-fold in five years, with organised crime gangs blamed for the rise.
+
+* [GitHub repo](https://github.com/jomorris-sdu/qr-code-scams)
+
 ### Toxic land across the UK
 
 In March, 2025, the Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/c4gez4zgk8ko_) how thousands of parcels of potentially contaminated land, which have never been checked by local councils, could be posing a risk to health and even life.

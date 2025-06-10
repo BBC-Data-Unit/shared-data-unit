@@ -19,7 +19,7 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
-## QR code scams
+### QR code scams
 
 In April 2025, the Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/cq6yznmv3gzo) how the number of so-called 'quishing' scams, linked to fake or fraudulent QR codes, rose 14-fold in five years, with organised crime gangs blamed for the rise.
 

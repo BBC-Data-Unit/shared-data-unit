@@ -19,6 +19,11 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Missing police evidence
+Thousands of criminal cases - including some of the most serious violent and sexual offences - are collapsing every year because of lost, damaged or missing evidence, the BBC Shared Data Unit reported in June, 2025.
+
+[Github repo]
+
 ### QR code scams
 
 In April 2025, the Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/cq6yznmv3gzo) how the number of so-called 'quishing' scams, linked to fake or fraudulent QR codes, rose 14-fold in five years, with organised crime gangs blamed for the rise.

@@ -20,9 +20,9 @@ We believe in making our journalism accessible to as many people as possible.  W
 ## Our stories
 
 ### Missing police evidence
-Thousands of criminal cases - including some of the most serious violent and sexual offences - are collapsing every year because of lost, damaged or missing evidence, the BBC Shared Data Unit reported in June, 2025.
+Thousands of criminal cases - including some of the most serious violent and sexual offences - are collapsing every year because of lost, damaged or missing evidence, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/c3e5289d3njo) in June, 2025.
 
-[Github repo](https://github.com/BBC-Data-Unit/police_evidence)
+* [Github repo](https://github.com/BBC-Data-Unit/police_evidence)
 
 ### QR code scams
 

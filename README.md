@@ -19,20 +19,25 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Premium bonds
+
+In August 2025, we [reported](https://www.bbc.co.uk/news/articles/ce3791ep6gko) how more than £100m of premium bond prizes remained unclaimed amid criticism that the government-owned bank which operated the savings scheme was not doing enough to find the winners.
+
 ### Missing police evidence
-Thousands of criminal cases - including some of the most serious violent and sexual offences - are collapsing every year because of lost, damaged or missing evidence, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/c3e5289d3njo) in June, 2025.
+
+In June 2025, we [reported](https://www.bbc.co.uk/news/articles/c3e5289d3njo) how thousands of criminal cases - including some of the most serious violent and sexual offences - were collapsing every year because of lost, damaged or missing evidence.
 
 * [Github repo](https://github.com/BBC-Data-Unit/police_evidence)
 
 ### QR code scams
 
-In April 2025, the Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/cq6yznmv3gzo) how the number of so-called 'quishing' scams, linked to fake or fraudulent QR codes, rose 14-fold in five years, with organised crime gangs blamed for the rise.
+In April 2025, we [reported](https://www.bbc.co.uk/news/articles/cq6yznmv3gzo) how the number of so-called 'quishing' scams, linked to fake or fraudulent QR codes, rose 14-fold in five years, with organised crime gangs blamed for the rise.
 
 * [GitHub repo](https://github.com/jomorris-sdu/qr-code-scams)
 
 ### Toxic land across the UK
 
-In March, 2025, the Shared Data Unit [reported](https://www.bbc.co.uk/news/articles/c4gez4zgk8ko_) how thousands of parcels of potentially contaminated land, which have never been checked by local councils, could be posing a risk to health and even life.
+In March 2025, we [reported](https://www.bbc.co.uk/news/articles/c4gez4zgk8ko_) how thousands of parcels of potentially contaminated land, which have never been checked by local councils, could be posing a risk to health and even life.
 
 * [Github repo](https://github.com/BBC-Data-Unit/Toxic_land/blob/main/README.md)
 

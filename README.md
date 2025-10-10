@@ -19,6 +19,12 @@ We believe in making our journalism accessible to as many people as possible.  W
 
 ## Our stories
 
+### Police unit blocking FOI requests U-turns on promised reforms
+
+In October 2025, we [reported](https://www.bbc.co.uk/news/articles/cp982mn7840o) how a national policing unit that had been criticised for telling local forces to block the release of information under transparency laws had U-turned on a pledge to reform the way it worked.
+
+* [Github repo](https://github.com/BBC-Data-Unit/FOI-Uturn)
+
 ### Premium bonds
 
 In August 2025, we [reported](https://www.bbc.co.uk/news/articles/ce3791ep6gko) how more than £100m of premium bond prizes remained unclaimed amid criticism that the government-owned bank which operated the savings scheme was not doing enough to find the winners.
